@@ -1,21 +1,28 @@
 ## Table of contents
+* [What is it](#Whatisit)
 * [Simple Clock](#Clock)
 * [Tic tac toe](#Tictactoe)
 * [Chrome Dino](#ChromeDino)
-* [Computer Security](#ComputerSecurity)
-* [Embedded](#Embedded)
-* [Video Game](#VideoGame)
+
+
+## Whatisit
+* Practice page for p5js javascript!
+
 
 ## Clock
-* [A thesis on TNS](https://kbckbc.github.io/tns/) : Time-Sensitive Networking – Deterministic Network
+A simple clock implementation
+
+* [Go to the Githup Page](https://github.com/kbckbc/p5-tictactoe)
+* [Go to the play page](https://kbckbc.github.io/p5-tictactoe/)
 
 
 ## Tictactoe
-Simple board with Flask on Google cloud
-  * [Go to the Githup Page](https://github.com/kbckbc/chanboard)
-  * [Visit the Simple board page](http://34.125.24.66)
+A tictactoe implementation using minimax algorithm
+
+* [Go to the Githup Page](https://github.com/kbckbc/p5-tictactoe)
+* [Go to the play page](https://kbckbc.github.io/p5-tictactoe/)
+
 
 ## ChromeDino
-Simple board with Flask on Google cloud
-  * [Go to the Githup Page](https://github.com/kbckbc/chanboard)
-  * [Visit the Simple board page](http://34.125.24.66)
+A implementation of Chrome dino game.
+  
