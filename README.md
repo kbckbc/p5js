@@ -13,14 +13,14 @@
 A simple clock implementation
 
 * [Go to the Githup Page](https://github.com/kbckbc/p5-clock)
-* [Go to the play page](https://kbckbc.github.io/p5-clock/)
+* [Go to the play page](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
 
 
 ## Tictactoe
 A tictactoe implementation using minimax algorithm
 
 * [Go to the Githup Page](https://github.com/kbckbc/p5-tictactoe)
-* [Go to the play page](https://kbckbc.github.io/p5-tictactoe/)
+* [Go to the play page](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
 
 
 ## ChromeDino
