@@ -13,7 +13,7 @@
 A simple clock implementation
 
 * [Go to the Githup Page](https://github.com/kbckbc/p5-clock)
-* [Go to the play page](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
+* [Go to the play page](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
 
 
 ## Tictactoe
