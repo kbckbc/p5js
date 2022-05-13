@@ -18,7 +18,7 @@ A tictactoe implementation using AI(Minimax) algorithm
 ## SnakeGame
 A snake game implementation
 
-* [Go to the Githup Page](https://github.com/kbckbc/p5-clock)
+* [Go to the Githup Page](https://github.com/kbckbc/p5-snake)
 * [Go to the play page](https://editor.p5js.org/bychan/full/eHzgPkmiR)
 
 ## Clock
