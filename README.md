@@ -4,6 +4,7 @@
 * [Flappy Circle](#FlappyCircle)
 * [Snake Game](#SnakeGame)
 * [Simple Clock](#Clock)
+* [Word Freq Visualization](#WordFreq)
 * [Chrome Dino Game](#ChromeDinoGame)
 
 
@@ -34,6 +35,13 @@ A simple clock implementation
 
 * [Go to the Githup Page](https://github.com/kbckbc/p5-clock)
 * [Go to the play page](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
+
+
+## WordFreq
+A word frequency visualization implementation
+
+* [Go to the Githup Page](https://github.com/kbckbc/p5-wordfreq)
+* [Go to the play page]([https://editor.p5js.org/bychan/full/FL7Cn26Sh](https://editor.p5js.org/bychan/full/V9YJXSTlv))
 
 
 ## ChromeDinoGame
