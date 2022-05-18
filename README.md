@@ -41,7 +41,7 @@ A simple clock implementation
 A word frequency visualization implementation
 
 * [Go to the Githup Page](https://github.com/kbckbc/p5-wordfreq)
-* [Go to the play page](https://editor.p5js.org/bychan/full/V9YJXSTlv))
+* [Go to the play page](https://editor.p5js.org/bychan/full/V9YJXSTlv)
 
 
 ## ChromeDinoGame
