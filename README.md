@@ -3,6 +3,7 @@
 * [Tic tac toe with AI](#Tictactoe)
 * [Flappy Circle](#FlappyCircle)
 * [Snake Game](#SnakeGame)
+* [NextBrain](#NextBrain)
 * [Simple Clock](#Clock)
 * [Word Freq Visualization](#WordFreq)
 * [Chrome Dino Game](#ChromeDinoGame)
@@ -29,6 +30,12 @@ A snake game implementation
 
 * [Go to the Githup Page](https://github.com/kbckbc/p5-snake)
 * [Go to the play page](https://editor.p5js.org/bychan/full/eHzgPkmiR)
+
+## SnakeGame
+A brain test game
+
+* [Go to the play page](https://editor.p5js.org/bychan/full/1yKpG_1MW)
+
 
 ## Clock
 A simple clock implementation
