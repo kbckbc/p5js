@@ -31,7 +31,7 @@ A snake game implementation
 * [Go to the Githup Page](https://github.com/kbckbc/p5-snake)
 * [Go to the play page](https://editor.p5js.org/bychan/full/eHzgPkmiR)
 
-## Brain test game
+## NextBrain
 A brain test game
 
 * [Go to the play page](https://editor.p5js.org/bychan/full/1yKpG_1MW)
