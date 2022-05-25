@@ -4,9 +4,11 @@
 * [Flappy Circle](#FlappyCircle)
 * [Snake Game](#SnakeGame)
 * [NextBrain](#NextBrain)
+* [Chrome Dino Game](#ChromeDinoGame)
 * [Simple Clock](#Clock)
 * [Word Freq Visualization](#WordFreq)
-* [Chrome Dino Game](#ChromeDinoGame)
+* [Markov Text Generator](#MarkovTextGenerator)
+
 
 
 ## Whatisit
@@ -49,6 +51,12 @@ A word frequency visualization implementation
 
 * [Go to the Githup Page](https://github.com/kbckbc/p5-wordfreq)
 * [Go to the play page](https://editor.p5js.org/bychan/full/V9YJXSTlv)
+
+
+## MarkovTextGenerator
+A random text generator using Markov chain
+
+* [Go to the play page](https://editor.p5js.org/bychan/full/BeLn-eRPh)
 
 
 ## ChromeDinoGame
